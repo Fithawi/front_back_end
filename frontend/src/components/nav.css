@@ -1,0 +1,11 @@
+.nav-bar{
+    display:block;
+}
+ul li{
+    display: inline-block
+}
+li{
+    padding: 20px;
+    margin: auto;
+    align-content: end;
+}
